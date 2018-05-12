@@ -1,0 +1,35 @@
+_repo: Vaarallista-v-ke-_18568
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Relander, Oskar
+    alias: Relander, Karl Adolf Oskar
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '8119'
+    url: http://www.gutenberg.org/2009/agents/8119
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Elster, Kristian
+    alias: Elster, Kristian Mandrup
+    birthdate: 1841
+    deathdate: 1881
+    gutenberg_agent_id: '8118'
+    url: http://www.gutenberg.org/2009/agents/8118
+description: 'Translation of: Farlige folk'
+gutenberg_issued: '2006-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18568'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Vaarallista väkeä
+url: http://www.gutenberg.org/ebooks/18568
